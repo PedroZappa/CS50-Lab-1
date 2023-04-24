@@ -18,6 +18,7 @@ To use this program, you will need to clone the repository to your local machine
 
 ```sh
 git clone https://github.com/PedroZappa/population.git
+cd population
 ```
 
 ## Prerequisites
