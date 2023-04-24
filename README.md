@@ -1,6 +1,4 @@
-# README: CS50 Lab_1
-
-## Population Growth Calculator
+# CS50 Lab_1: Population Growth Calculator
 
 This is a C program that calculates the number of years it takes for a population to reach a certain size, given a starting population size, and the end population size as inputs. The program uses the CS50 library for user input, and handles input validation to ensure correct input values.
 
