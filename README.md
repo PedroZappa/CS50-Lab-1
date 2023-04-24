@@ -7,8 +7,6 @@ This is a C program that calculates the number of years it takes for a populatio
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
